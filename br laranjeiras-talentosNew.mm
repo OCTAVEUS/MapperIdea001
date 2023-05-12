@@ -1,0 +1,267 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1683111916310" ID="ID_277928667" MODIFIED="1683202788263" TEXT="br laranjeiras-talentos ">
+<icon BUILTIN="Package"/>
+<node CREATED="1683115285798" HGAP="-100" ID="ID_617960204" MODIFIED="1683115863284" POSITION="right" TEXT="config" VSHIFT="-138">
+<node CREATED="1683115421086" ID="ID_871716397" MODIFIED="1683115440567" TEXT="mapperidea">
+<icon BUILTIN="element"/>
+<node CREATED="1683115446101" ID="ID_497304988" MODIFIED="1683115926042" TEXT="generaters">
+<icon BUILTIN="element"/>
+<node CREATED="1683115489013" ID="ID_1307785290" MODIFIED="1683115503439" TEXT="JS">
+<icon BUILTIN="element"/>
+<node CREATED="1683115507302" ID="ID_1667318862" MODIFIED="1683122039238" TEXT="domainModel">
+<icon BUILTIN="element"/>
+<node CREATED="1683115548949" ID="ID_1352658358" MODIFIED="1683115575255" TEXT="parameters">
+<icon BUILTIN="element"/>
+<node CREATED="1683115586133" ID="ID_697474318" MODIFIED="1683115603558" TEXT="className">
+<icon BUILTIN="element"/>
+<node CREATED="1683115611365" ID="ID_265586244" MODIFIED="1683116284541" TEXT="NOT_DEFINED">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1683115980429" ID="ID_980815346" MODIFIED="1683116010750" TEXT="start">
+<icon BUILTIN="element"/>
+<node CREATED="1683116014957" ID="ID_1391478940" MODIFIED="1683116037246" TEXT="match">
+<icon BUILTIN="element"/>
+<node CREATED="1683116071685" ID="ID_1650027720" MODIFIED="1683118432789" TEXT="classes/class [@name = $className]">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683116544548" ID="ID_1745458537" MODIFIED="1683116615956" TEXT="body ">
+<icon BUILTIN="element"/>
+<node CREATED="1683116623196" ID="ID_515832417" MODIFIED="1683116661781" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1683116715732" ID="ID_1954234808" MODIFIED="1683116779910" TEXT="declaraClasse">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683118672362" ID="ID_1858152315" MODIFIED="1683118703378" TEXT="apply-templates">
+<icon BUILTIN="element"/>
+<node CREATED="1683118732873" ID="ID_1544123728" MODIFIED="1683118765579" TEXT="select">
+<icon BUILTIN="element"/>
+<node CREATED="1683118846978" ID="ID_516567117" MODIFIED="1683118890018" TEXT="attributes">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683118743450" ID="ID_773619740" MODIFIED="1683118773915" TEXT="mode">
+<icon BUILTIN="element"/>
+<node CREATED="1683118869241" ID="ID_1666157834" MODIFIED="1683118898082" TEXT="construtor">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1683116669548" ID="ID_790562485" MODIFIED="1683116709445" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1683116809444" ID="ID_246976113" MODIFIED="1683116852173" TEXT="fechaBlocoClasse">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1683116880308" ID="ID_335248525" MODIFIED="1683201943658" TEXT="patterns">
+<icon BUILTIN="element"/>
+<node CREATED="1683116923492" ID="ID_866864580" MODIFIED="1683116998021" TEXT="declaraClasse">
+<icon BUILTIN="element"/>
+<node CREATED="1683117065267" ID="ID_1795418420" MODIFIED="1683118541141" TEXT="class (( @name )) (">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683117335011" ID="ID_1461394864" MODIFIED="1683122638784" TEXT="fechaBlocoClasse">
+<icon BUILTIN="element"/>
+<node CREATED="1683117373595" ID="ID_145741303" MODIFIED="1683118544925" TEXT=" )">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683122612892" ID="ID_82405976" MODIFIED="1683122676190" TEXT="declaraConstrutor">
+<icon BUILTIN="element"/>
+<node CREATED="1683122681796" ID="ID_1658693692" MODIFIED="1683122693942" TEXT="">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1683122697588" ID="ID_1653131890" MODIFIED="1683122782037" TEXT="construtor (">
+<icon BUILTIN="tag_yellow"/>
+</node>
+</node>
+<node CREATED="1683200305087" ID="ID_1269025224" MODIFIED="1683287776552" TEXT="parametersConstrutor">
+<icon BUILTIN="element"/>
+<node CREATED="1683200392231" ID="ID_1605144183" MODIFIED="1683200799074" TEXT="(( @name)) ((mi:if-else (position() = last(, &quot;,  &apos;, &apos; ))  ))"/>
+</node>
+<node CREATED="1683201083613" ID="ID_1579319228" MODIFIED="1683201095991" TEXT="iniciaBlocoConstrutor">
+<icon BUILTIN="element"/>
+<node CREATED="1683201102350" ID="ID_714033627" MODIFIED="1683201152449" TEXT="  ) ( ">
+<icon BUILTIN="tag_yellow"/>
+</node>
+</node>
+<node CREATED="1683201947644" ID="ID_1688289090" MODIFIED="1683201964142" TEXT="fechaBlocoConstrutor">
+<icon BUILTIN="element"/>
+<node CREATED="1683201967773" ID="ID_113508996" MODIFIED="1683201999790" TEXT="              )">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683291431001" ID="ID_574074165" MODIFIED="1683291445202" TEXT="inicializaAtributosConstrutor">
+<icon BUILTIN="element"/>
+<node CREATED="1683291550112" ID="ID_1122129344" MODIFIED="1683291693842" TEXT="        this._ (( @name ))  = (( @ name ));">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1683122046461" ID="ID_1853551957" MODIFIED="1683122079582" TEXT="templates ">
+<icon BUILTIN="element"/>
+<node CREATED="1683122083276" ID="ID_1647844384" MODIFIED="1683122102974" TEXT="mode">
+<icon BUILTIN="element"/>
+<node CREATED="1683122169492" ID="ID_899927449" MODIFIED="1683122194494" TEXT="construtor">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1683122134340" ID="ID_531167245" MODIFIED="1683122206614" TEXT="template">
+<icon BUILTIN="element"/>
+<node CREATED="1683122212428" ID="ID_1045323988" MODIFIED="1683122246640" TEXT="match">
+<icon BUILTIN="element"/>
+<node CREATED="1683122231694" ID="ID_1952944438" MODIFIED="1683122264559" TEXT="attributes">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683122221541" ID="ID_795818585" MODIFIED="1683122255207" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1683122495949" ID="ID_839746468" MODIFIED="1683122517407" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1683122529125" ID="ID_1456769166" MODIFIED="1683122554927" TEXT="declaraConstrutor">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683123038884" ID="ID_1847246499" MODIFIED="1683123086742" TEXT="apply-templates">
+<icon BUILTIN="element"/>
+<node CREATED="1683123092733" ID="ID_46683353" MODIFIED="1683123114574" TEXT="select">
+<icon BUILTIN="element"/>
+<node CREATED="1683123138276" ID="ID_1239195386" MODIFIED="1683123159902" TEXT="attribute">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683123171004" ID="ID_917700548" MODIFIED="1683123258758" TEXT="mode">
+<icon BUILTIN="element"/>
+<node CREATED="1683123179396" ID="ID_1311880746" MODIFIED="1683287822973" TEXT="parametersConstrutor">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1683201387302" ID="ID_1006002334" MODIFIED="1683201419407" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1683201424126" ID="ID_967009525" MODIFIED="1683201457727" TEXT="iniciaBlocoConstrutor">
+<icon BUILTIN="tag_yellow"/>
+</node>
+</node>
+<node CREATED="1683290584954" ID="ID_430666272" MODIFIED="1683290626523" TEXT="apply-templates">
+<icon BUILTIN="element"/>
+<node CREATED="1683290633850" ID="ID_1141969144" MODIFIED="1683290654899" TEXT=" select ">
+<icon BUILTIN="element"/>
+<node CREATED="1683290662858" ID="ID_308521187" MODIFIED="1683290695219" TEXT="attribute">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683290738514" ID="ID_871184472" MODIFIED="1683290853267" TEXT=" mode ">
+<icon BUILTIN="element"/>
+<node CREATED="1683290766066" ID="ID_429894013" MODIFIED="1683290840754" TEXT="inicializaAtributosConstrutor">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1683201475749" ID="ID_1790907488" MODIFIED="1683201495856" TEXT="write-pattern">
+<node CREATED="1683201550309" ID="ID_1115574421" MODIFIED="1683201561543" TEXT="fechaBlocoConstrutor">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1683123280611" ID="ID_1521544185" MODIFIED="1683123299893" TEXT="mode">
+<icon BUILTIN="element"/>
+<node CREATED="1683123357515" ID="ID_389508963" MODIFIED="1683287832774" TEXT="parametersConstrutor">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1683123387603" ID="ID_136391601" MODIFIED="1683123405222" TEXT="template">
+<icon BUILTIN="element"/>
+<node CREATED="1683123411972" ID="ID_783625342" MODIFIED="1683123429486" TEXT="match">
+<icon BUILTIN="element"/>
+<node CREATED="1683123435212" ID="ID_1654079423" MODIFIED="1683123456661" TEXT="attribute">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683123473099" ID="ID_761848169" MODIFIED="1683123493854" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1683123499524" ID="ID_1998890936" MODIFIED="1683291466057" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1683123529732" ID="ID_1260062440" MODIFIED="1683123554725" TEXT="parametresConstrutor">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1683290905297" ID="ID_1074677769" MODIFIED="1683291007427" TEXT="mode ">
+<icon BUILTIN="element"/>
+<node CREATED="1683290996705" ID="ID_36625367" MODIFIED="1683291053170" TEXT="inicializaAtributosConstrutor">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1683291060337" ID="ID_1532987365" MODIFIED="1683291364530" TEXT="template">
+<icon BUILTIN="element"/>
+<node CREATED="1683291187154" ID="ID_151303612" MODIFIED="1683291312635" TEXT="match">
+<icon BUILTIN="element"/>
+<node CREATED="1683291194418" ID="ID_62920573" MODIFIED="1683291302850" TEXT="attribute">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1683291259545" ID="ID_1078685330" MODIFIED="1683291323059" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1683291275306" ID="ID_1434662090" MODIFIED="1683291339226" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1683291394497" ID="ID_1671389079" MODIFIED="1683291406603" TEXT="inicializaAtributosConstrutor">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1683112008813" HGAP="89" ID="ID_1905390512" MODIFIED="1683288866849" POSITION="right" TEXT="domain" VSHIFT="34">
+<icon BUILTIN="Package"/>
+<node CREATED="1683112431481" ID="ID_717384108" MODIFIED="1683288373294" TEXT="escola">
+<icon BUILTIN="Class.public"/>
+<node CREATED="1683112414385" HGAP="5" ID="ID_57319082" MODIFIED="1683288886963" TEXT="alunos">
+<icon BUILTIN="Class.public"/>
+<node CREATED="1683121577118" ID="ID_1192729347" MODIFIED="1683203086952" TEXT="name: Texto ()">
+<icon BUILTIN="Mapping.directToField"/>
+</node>
+<node CREATED="1683121609902" ID="ID_408349011" MODIFIED="1683289630598" TEXT=" cpf:  Texto ()">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="Mapping.directToField"/>
+</node>
+<node CREATED="1683121622326" ID="ID_188698786" MODIFIED="1683289639839" TEXT="rg: Texto ()">
+<icon BUILTIN="Mapping.directToField"/>
+</node>
+<node CREATED="1683121642095" ID="ID_1998061266" MODIFIED="1683203224211" TEXT="age: int ()">
+<icon BUILTIN="Mapping.directToField"/>
+</node>
+</node>
+<node CREATED="1683112472570" ID="ID_1548258301" MODIFIED="1683112949739" TEXT="secretaria">
+<icon BUILTIN="Class.public"/>
+</node>
+<node CREATED="1683112564026" HGAP="55" ID="ID_1198190123" MODIFIED="1683114356197" TEXT="professores" VSHIFT="-20">
+<icon BUILTIN="Class.public"/>
+</node>
+<node CREATED="1683112601249" ID="ID_230399991" MODIFIED="1683112949739" TEXT="restaurante">
+<icon BUILTIN="Class.public"/>
+</node>
+<node CREATED="1683112637290" ID="ID_891008813" MODIFIED="1683112949739" TEXT="gym">
+<icon BUILTIN="Class.public"/>
+</node>
+<node CREATED="1683112662890" ID="ID_1662118901" MODIFIED="1683112949738" TEXT="seguranca">
+<icon BUILTIN="Class.public"/>
+</node>
+</node>
+</node>
+</node>
+</map>
